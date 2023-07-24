@@ -27,7 +27,7 @@ p {
 }
 
 .red-text {
-  color:red;
+  color: red;
 }
 
 ul.custom-list {
@@ -52,3 +52,4 @@ ul.custom-list li.special-font-size {
 ul.custom-list li.pretty-pink-bg {
   background-color: pink;
 }
+

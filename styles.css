@@ -22,9 +22,10 @@ p {
 
 .black-on-white {
   color: white;
-  background-color: rgb(255, 0, 0);
+  background-color: black;
   padding: 10px;
 }
+
 
 .red-text {
   color: red;

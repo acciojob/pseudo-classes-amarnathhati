@@ -22,7 +22,7 @@ p {
 
 .black-on-white {
   color: white;
-  background-color: black;
+  background-color: rgb(255, 0, 0);
   padding: 10px;
 }
 
